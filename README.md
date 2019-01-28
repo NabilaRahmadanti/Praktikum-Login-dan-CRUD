@@ -1,9 +1,17 @@
 # Tugas-CI-Lanjutan
 
-User
-![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/user1.JPG)
-![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/user2.JPG)
-![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/user3.JPG)
+Login
 
-Profil
-![alt text](https://github.com/wahyuutami/Tugas-CI-Lanjutan/blob/master/Hasil%20CI%20Lanjutan/profil1.JPG)
+![alt text](https://github.com/NabilaRahmadanti/Praktikum-Login-dan-CRUD/blob/master/Hasil/A.PNG)
+Data Pelanggan
+![alt text](https://github.com/NabilaRahmadanti/Praktikum-Login-dan-CRUD/blob/master/Hasil/B.PNG)
+Daftar Pelanggan
+![alt text](https://github.com/NabilaRahmadanti/Praktikum-Login-dan-CRUD/blob/master/Hasil/C.PNG)
+Berhasil menambah data pelanggan
+![alt text](https://github.com/NabilaRahmadanti/Praktikum-Login-dan-CRUD/blob/master/Hasil/D.PNG)
+Berhasil menghapus data pelanggan
+![alt text](https://github.com/NabilaRahmadanti/Praktikum-Login-dan-CRUD/blob/master/Hasil/E.PNG)
+Edit data pelanggan
+![alt text](https://github.com/NabilaRahmadanti/Praktikum-Login-dan-CRUD/blob/master/Hasil/F.PNG)
+Berhasil mengedit data pelanggan
+![alt text](https://github.com/NabilaRahmadanti/Praktikum-Login-dan-CRUD/blob/master/Hasil/G.PNG)
